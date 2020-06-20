@@ -25,7 +25,7 @@ const HDWalletProvider = require('truffle-hdwallet-provider');
 const infuraKey = "67cc04ce90034933976637be4a76caf7";
 //
 // const fs = require('fs');
-const mnemonic = "gossip feel hen crunch issue raise street island talent swarm pigeon pill";
+const mnemonic = "meta mask account seed";
 // const HDWallet = require('truffle-hdwallet-provider');
 // const infuraKey = "fj4jll3k.....";
 //
